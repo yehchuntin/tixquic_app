@@ -1,0 +1,14 @@
+{
+  "device_id": "8c7d68dd-85d6-43cc-bb9d-b3c480ecabcb",
+  "fingerprint": "e2ff973bd0363417b97bc0da37b349bd7da7bba4b9fdda2230f92e1094f2017e",
+  "system_info": {
+    "platform": "Windows-10-10.0.26100-SP0",
+    "machine": "AMD64",
+    "processor": "AMD64 Family 25 Model 68 Stepping 1, AuthenticAMD",
+    "python_version": "3.10.9",
+    "node": "LAPTOP-D8B8HRDS",
+    "system": "Windows",
+    "release": "10"
+  },
+  "created_at": "2025-05-31 14:04:50.951745"
+}
